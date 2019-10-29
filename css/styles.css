@@ -1,0 +1,17 @@
+
+#health-responses {
+  display: none;
+}
+#coping-responses {
+  display: none;
+}
+
+.low-stress {
+  display: none;
+  margin-top: 3%;
+}
+
+.high-stress {
+  display: none;
+  margin-top: 3%;
+}
